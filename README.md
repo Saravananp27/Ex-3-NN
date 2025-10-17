@@ -1,7 +1,7 @@
-<H3>NAME : KAMESH R R </H3> 
-<H3>REGISTER NO. : 212223230095 </H3>
+<H3>NAME : SARAVANAN P </H3> 
+<H3>REGISTER NO. : 212224230253 </H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:  06/10/2025 </H3>
+<H3>DATE:  17/10/2025 </H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>   
 To implement a perceptron for classification using Python
